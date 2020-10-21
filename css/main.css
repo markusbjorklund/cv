@@ -133,6 +133,10 @@ p {
   float: right;
 }
 
+.tright {
+  text-align: right;
+}
+
 .clear {
   padding-top: 1em;
   clear: both;
