@@ -18,7 +18,8 @@ body {
   margin: 50px auto;
   padding: 30px;
   box-shadow: -12px 12px 20px 12px #888;
-  background: url("abstract.jpg");
+  background: url("art.jpg");
+  filter: grayscale(100%);
 }
 
 .row {
