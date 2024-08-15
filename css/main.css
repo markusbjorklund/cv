@@ -19,7 +19,6 @@ body {
   padding: 30px;
   box-shadow: -12px 12px 20px 12px #888;
   background: url("<3.jpg");
-  filter: grayscale(20%);
 }
 
 .row {
@@ -32,6 +31,7 @@ body {
   flex: 60%;
   padding: 30px;
   background: #fff;
+  opacity: 0.9;
 }
 
 .header {
