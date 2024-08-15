@@ -155,7 +155,7 @@ p {
   width: 250px;
   margin-top: 50px;
   border-radius: 50%;
-  filter: grayscale(100%);
+  /* filter: grayscale(100%);*/
   border: 5px solid #fff;
   box-shadow: 0 0 10px 8px #888;
 }
