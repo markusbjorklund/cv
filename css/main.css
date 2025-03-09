@@ -18,7 +18,7 @@ body {
   margin: 50px auto;
   padding: 30px;
   box-shadow: -12px 12px 20px 12px #888;
-  background: url("<3.jpg");
+  background: url("background.jpg");
 }
 
 .row {
@@ -155,7 +155,7 @@ p {
   width: 250px;
   margin-top: 50px;
   border-radius: 50%;
-  /* filter: grayscale(100%);*/
+  filter: grayscale(50%);
   border: 5px solid #fff;
   box-shadow: 0 0 10px 8px #888;
 }
@@ -193,7 +193,7 @@ p {
   left: 100%;
 }
 
-.fa-star, .fa-heart, .fa-coffee, .fa-record-vinyl, .fa-beer, .fa-motorcycle, .fa-laptop-house, .fa-server {
+.fa-star, .fa-heart, .fa-coffee, .fa-record-vinyl, .fa-beer, .fa-motorcycle, .fa-laptop-house, .fa-server, .fa-dumbbell {
   color: #bbb;
 }
 
